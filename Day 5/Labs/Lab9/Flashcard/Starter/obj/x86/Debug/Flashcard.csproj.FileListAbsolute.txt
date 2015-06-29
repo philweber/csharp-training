@@ -1,0 +1,20 @@
+C:\Users\pweber\Documents\Visual Studio 2010\Projects\Flashcard\Flashcard\bin\Debug\questions.txt
+C:\Users\pweber\Documents\Visual Studio 2010\Projects\Flashcard\Flashcard\bin\Debug\Flashcard.exe
+C:\Users\pweber\Documents\Visual Studio 2010\Projects\Flashcard\Flashcard\bin\Debug\Flashcard.pdb
+C:\Users\pweber\Documents\Visual Studio 2010\Projects\Flashcard\Flashcard\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\pweber\Documents\Visual Studio 2010\Projects\Flashcard\Flashcard\obj\x86\Debug\Flashcard.exe
+C:\Users\pweber\Documents\Visual Studio 2010\Projects\Flashcard\Flashcard\obj\x86\Debug\Flashcard.pdb
+C:\Users\pweber\Documents\Training\C#\Day 3\Labs\Lab06\Flashcard\Solution\obj\x86\Debug\Flashcard.exe
+C:\Users\pweber\Documents\Training\C#\Day 3\Labs\Lab06\Flashcard\Solution\obj\x86\Debug\Flashcard.pdb
+C:\Users\pweber\Documents\Training\C#\Day 3\Labs\Lab06\Generic Flashcard\Solution\obj\x86\Debug\Flashcard.exe
+C:\Users\pweber\Documents\Training\C#\Day 3\Labs\Lab06\Generic Flashcard\Solution\obj\x86\Debug\Flashcard.pdb
+C:\Users\pweber\Documents\Training\C#\Day 3\Labs\Lab06\Generic Flashcard\Solution\bin\Debug\questions.txt
+C:\Users\pweber\Documents\Training\C#\Day 3\Labs\Lab06\Generic Flashcard\Solution\bin\Debug\Flashcard.exe
+C:\Users\pweber\Documents\Training\C#\Day 3\Labs\Lab06\Generic Flashcard\Solution\bin\Debug\Flashcard.pdb
+C:\Users\pweber\Documents\Training\C#\Day 3\Labs\Lab06\Generic Flashcard\Solution\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\pweber\Documents\Training\C#\Day 5\Lab10\Flashcard\Starter\obj\x86\Debug\Flashcard.exe
+C:\Users\pweber\Documents\Training\C#\Day 5\Lab10\Flashcard\Starter\obj\x86\Debug\Flashcard.pdb
+C:\Users\pweber\Documents\Training\C#\Day 5\Lab10\Flashcard\Starter\bin\Debug\questions.txt
+C:\Users\pweber\Documents\Training\C#\Day 5\Lab10\Flashcard\Starter\bin\Debug\Flashcard.exe
+C:\Users\pweber\Documents\Training\C#\Day 5\Lab10\Flashcard\Starter\bin\Debug\Flashcard.pdb
+C:\Users\pweber\Documents\Training\C#\Day 5\Lab10\Flashcard\Starter\obj\x86\Debug\ResolveAssemblyReference.cache

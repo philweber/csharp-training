@@ -1,0 +1,5 @@
+﻿What is the meaning of life?/42
+What is the capital of Vermont?/Montpelier
+In which galaxy do you live?/Milky Way
+What are the three pillars of object-oriented programming?/Encapsulation, Inheritance, and Polymorphism
+What is Phil's middle name?/Trick question!

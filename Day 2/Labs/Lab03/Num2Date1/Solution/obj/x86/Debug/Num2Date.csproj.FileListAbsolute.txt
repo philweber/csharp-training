@@ -1,0 +1,7 @@
+C:\Users\pweber\Documents\Training\C#\Part 1\Labs\Lab03\Num2Date1\Solution\obj\x86\Debug\WhatDay1.exe
+C:\Users\pweber\Documents\Training\C#\Part 1\Labs\Lab03\Num2Date1\Solution\obj\x86\Debug\WhatDay1.pdb
+C:\Users\pweber\Documents\Training\C#\Day 2\Labs\Lab03\Num2Date1\Solution\obj\x86\Debug\WhatDay1.exe
+C:\Users\pweber\Documents\Training\C#\Day 2\Labs\Lab03\Num2Date1\Solution\obj\x86\Debug\WhatDay1.pdb
+C:\Users\pweber\Documents\Training\C#\Day 2\Labs\Lab03\Num2Date1\Solution\bin\Debug\WhatDay1.exe
+C:\Users\pweber\Documents\Training\C#\Day 2\Labs\Lab03\Num2Date1\Solution\bin\Debug\WhatDay1.pdb
+C:\Users\pweber\Documents\Training\C#\Day 2\Labs\Lab03\Num2Date1\Solution\obj\x86\Debug\ResolveAssemblyReference.cache

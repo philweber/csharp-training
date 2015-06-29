@@ -1,0 +1,7 @@
+E:\Demofiles\Mod3\Demo1\Starter\MethodRefactorAndTestDemo\MethodRefactorAndTestDemo\bin\Debug\MethodRefactorAndTestDemo.exe
+E:\Demofiles\Mod3\Demo1\Starter\MethodRefactorAndTestDemo\MethodRefactorAndTestDemo\bin\Debug\MethodRefactorAndTestDemo.pdb
+E:\Demofiles\Mod3\Demo1\Starter\MethodRefactorAndTestDemo\MethodRefactorAndTestDemo\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Demofiles\Mod3\Demo1\Starter\MethodRefactorAndTestDemo\MethodRefactorAndTestDemo\obj\x86\Debug\MethodRefactorAndTestDemo.exe
+E:\Demofiles\Mod3\Demo1\Starter\MethodRefactorAndTestDemo\MethodRefactorAndTestDemo\obj\x86\Debug\MethodRefactorAndTestDemo.pdb
+C:\Users\pweber\Documents\Training\C#\Day 2\Demo\Solution\MethodRefactorAndTestDemo\MethodRefactorAndTestDemo\obj\x86\Debug\MethodRefactorAndTestDemo.exe
+C:\Users\pweber\Documents\Training\C#\Day 2\Demo\Solution\MethodRefactorAndTestDemo\MethodRefactorAndTestDemo\obj\x86\Debug\MethodRefactorAndTestDemo.pdb

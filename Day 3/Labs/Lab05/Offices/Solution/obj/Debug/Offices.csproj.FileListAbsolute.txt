@@ -1,0 +1,5 @@
+C:\Users\pweber\Documents\Training\C#\Day 3\Labs\Lab05\Offices\Solution\bin\Debug\Offices.exe
+C:\Users\pweber\Documents\Training\C#\Day 3\Labs\Lab05\Offices\Solution\bin\Debug\Offices.pdb
+C:\Users\pweber\Documents\Training\C#\Day 3\Labs\Lab05\Offices\Solution\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\pweber\Documents\Training\C#\Day 3\Labs\Lab05\Offices\Solution\obj\Debug\Offices.exe
+C:\Users\pweber\Documents\Training\C#\Day 3\Labs\Lab05\Offices\Solution\obj\Debug\Offices.pdb

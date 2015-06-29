@@ -1,0 +1,12 @@
+C:\Users\pweber\Documents\Training\C#\Part 1\Labs\Lab02\Solution\bin\Debug\BankAccount.exe
+C:\Users\pweber\Documents\Training\C#\Part 1\Labs\Lab02\Solution\bin\Debug\BankAccount.pdb
+C:\Users\pweber\Documents\Training\C#\Part 1\Labs\Lab02\Solution\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\pweber\Documents\Training\C#\Part 1\Labs\Lab02\Solution\obj\x86\Debug\BankAccount.exe
+C:\Users\pweber\Documents\Training\C#\Part 1\Labs\Lab02\Solution\obj\x86\Debug\BankAccount.pdb
+C:\Users\pweber\Documents\Training\C#\Day 1\Labs\Lab02\Solution\obj\x86\Debug\BankAccount.exe
+C:\Users\pweber\Documents\Training\C#\Day 1\Labs\Lab02\Solution\obj\x86\Debug\BankAccount.pdb
+C:\Users\pweber\Documents\Training\C#\Day 1\Labs\Lab02\Solution\bin\Debug\BankAccount.exe
+C:\Users\pweber\Documents\Training\C#\Day 1\Labs\Lab02\Solution\bin\Debug\BankAccount.pdb
+C:\Users\pweber\Documents\Training\C#\Day 1\Labs\Lab02\Solution\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Phil Weber\Dropbox\C#\Day 1\Labs\Lab02\Solution\obj\x86\Debug\BankAccount.exe
+C:\Users\Phil Weber\Dropbox\C#\Day 1\Labs\Lab02\Solution\obj\x86\Debug\BankAccount.pdb

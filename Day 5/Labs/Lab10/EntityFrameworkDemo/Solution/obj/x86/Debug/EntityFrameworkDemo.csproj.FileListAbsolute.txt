@@ -1,0 +1,7 @@
+C:\Users\Phil Weber\Dropbox\C#\Day 5\Lab10\EntityFrameworkDemo\Starter\bin\Debug\EntityFrameworkDemo.exe.config
+C:\Users\Phil Weber\Dropbox\C#\Day 5\Lab10\EntityFrameworkDemo\Solution\bin\Debug\EntityFrameworkDemo.exe.config
+C:\Users\Phil Weber\Dropbox\C#\Day 5\Lab10\EntityFrameworkDemo\Solution\bin\Debug\EntityFrameworkDemo.exe
+C:\Users\Phil Weber\Dropbox\C#\Day 5\Lab10\EntityFrameworkDemo\Solution\bin\Debug\EntityFrameworkDemo.pdb
+C:\Users\Phil Weber\Dropbox\C#\Day 5\Lab10\EntityFrameworkDemo\Solution\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Phil Weber\Dropbox\C#\Day 5\Lab10\EntityFrameworkDemo\Solution\obj\x86\Debug\EntityFrameworkDemo.exe
+C:\Users\Phil Weber\Dropbox\C#\Day 5\Lab10\EntityFrameworkDemo\Solution\obj\x86\Debug\EntityFrameworkDemo.pdb

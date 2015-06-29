@@ -1,0 +1,9 @@
+C:\Users\Phil Weber\Dropbox\C#\Day 5\Lab10\DatasetDemo\bin\Debug\ConnectedDataDemo.exe.config
+C:\Users\Phil Weber\Dropbox\C#\Day 5\Lab10\DatasetDemo\bin\Debug\ConnectedDataDemo.exe
+C:\Users\Phil Weber\Dropbox\C#\Day 5\Lab10\DatasetDemo\bin\Debug\ConnectedDataDemo.pdb
+C:\Users\Phil Weber\Dropbox\C#\Day 5\Lab10\DatasetDemo\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Phil Weber\Dropbox\C#\Day 5\Lab10\DatasetDemo\obj\x86\Debug\ConnectedDataDemo.exe
+C:\Users\Phil Weber\Dropbox\C#\Day 5\Lab10\DatasetDemo\obj\x86\Debug\ConnectedDataDemo.pdb
+C:\Users\Phil Weber\Dropbox\C#\Day 5\Lab10\DatasetDemo\Starter\bin\Debug\ConnectedDataDemo.exe.config
+C:\Users\Phil Weber\Dropbox\C#\Day 5\Lab10\DatasetDemo\Starter\obj\x86\Debug\ConnectedDataDemo.exe
+C:\Users\Phil Weber\Dropbox\C#\Day 5\Lab10\DatasetDemo\Starter\obj\x86\Debug\ConnectedDataDemo.pdb

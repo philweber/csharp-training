@@ -1,0 +1,7 @@
+C:\Users\pweber\Documents\Training\C#\Day 3\Labs\Lab06\FileDetails\Solution\bin\Debug\FileDetails.exe
+C:\Users\pweber\Documents\Training\C#\Day 3\Labs\Lab06\FileDetails\Solution\bin\Debug\FileDetails.pdb
+C:\Users\pweber\Documents\Training\C#\Day 3\Labs\Lab06\FileDetails\Solution\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\pweber\Documents\Training\C#\Day 3\Labs\Lab06\FileDetails\Solution\obj\Debug\FileDetails.exe
+C:\Users\pweber\Documents\Training\C#\Day 3\Labs\Lab06\FileDetails\Solution\obj\Debug\FileDetails.pdb
+C:\Users\Phil Weber\Dropbox\C#\Day 3\Labs\Lab06\FileDetails\Solution\obj\Debug\FileDetails.exe
+C:\Users\Phil Weber\Dropbox\C#\Day 3\Labs\Lab06\FileDetails\Solution\obj\Debug\FileDetails.pdb

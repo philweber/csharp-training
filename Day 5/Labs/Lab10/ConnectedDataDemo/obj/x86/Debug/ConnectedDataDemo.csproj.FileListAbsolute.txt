@@ -1,0 +1,6 @@
+C:\Users\Phil Weber\Dropbox\C#\Day 5\Lab10\ConnectedDataDemo\bin\Debug\ConnectedDataDemo.exe.config
+C:\Users\Phil Weber\Dropbox\C#\Day 5\Lab10\ConnectedDataDemo\bin\Debug\ConnectedDataDemo.exe
+C:\Users\Phil Weber\Dropbox\C#\Day 5\Lab10\ConnectedDataDemo\bin\Debug\ConnectedDataDemo.pdb
+C:\Users\Phil Weber\Dropbox\C#\Day 5\Lab10\ConnectedDataDemo\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Phil Weber\Dropbox\C#\Day 5\Lab10\ConnectedDataDemo\obj\x86\Debug\ConnectedDataDemo.exe
+C:\Users\Phil Weber\Dropbox\C#\Day 5\Lab10\ConnectedDataDemo\obj\x86\Debug\ConnectedDataDemo.pdb

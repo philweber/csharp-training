@@ -1,0 +1,7 @@
+C:\Users\pweber\Documents\Training\C#\Day 2\Labs\Lab04\Solution\Utils\bin\Debug\Utils.exe
+C:\Users\pweber\Documents\Training\C#\Day 2\Labs\Lab04\Solution\Utils\bin\Debug\Utils.pdb
+C:\Users\pweber\Documents\Training\C#\Day 2\Labs\Lab04\Solution\Utils\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\pweber\Documents\Training\C#\Day 2\Labs\Lab04\Solution\Utils\obj\x86\Debug\Utils.exe
+C:\Users\pweber\Documents\Training\C#\Day 2\Labs\Lab04\Solution\Utils\obj\x86\Debug\Utils.pdb
+C:\Users\pweber\Documents\Training\C#\Day 2\Labs\Lab04\Starter\obj\x86\Debug\Utils.exe
+C:\Users\pweber\Documents\Training\C#\Day 2\Labs\Lab04\Starter\obj\x86\Debug\Utils.pdb

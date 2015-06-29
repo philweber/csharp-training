@@ -1,0 +1,22 @@
+c:\users\phil weber\documents\visual studio 2010\Projects\BankAccount\obj\x86\Debug\MainWindow.baml
+c:\users\phil weber\documents\visual studio 2010\Projects\BankAccount\obj\x86\Debug\MainWindow.g.cs
+c:\users\phil weber\documents\visual studio 2010\Projects\BankAccount\obj\x86\Debug\App.g.cs
+c:\users\phil weber\documents\visual studio 2010\Projects\BankAccount\obj\x86\Debug\BankAccount_MarkupCompile.cache
+c:\users\phil weber\documents\visual studio 2010\Projects\BankAccount\obj\x86\Debug\BankAccount.g.resources
+c:\users\phil weber\documents\visual studio 2010\Projects\BankAccount\obj\x86\Debug\Lab02.Properties.Resources.resources
+c:\users\phil weber\documents\visual studio 2010\Projects\BankAccount\obj\x86\Debug\BankAccount.csproj.GenerateResource.Cache
+c:\users\phil weber\documents\visual studio 2010\Projects\BankAccount\bin\Debug\BankAccount.exe
+c:\users\phil weber\documents\visual studio 2010\Projects\BankAccount\bin\Debug\BankAccount.pdb
+c:\users\phil weber\documents\visual studio 2010\Projects\BankAccount\obj\x86\Debug\BankAccount.exe
+c:\users\phil weber\documents\visual studio 2010\Projects\BankAccount\obj\x86\Debug\BankAccount.pdb
+C:\Users\Phil Weber\Dropbox\C#\Day 1\Labs\Lab02\Solution\WPF\obj\x86\Debug\BankAccount.exe
+C:\Users\Phil Weber\Dropbox\C#\Day 1\Labs\Lab02\Solution\WPF\obj\x86\Debug\BankAccount.pdb
+C:\Users\Phil Weber\Dropbox\C#\Day 1\Labs\Lab02\Solution\WPF\obj\x86\Debug\MainWindow.baml
+C:\Users\Phil Weber\Dropbox\C#\Day 1\Labs\Lab02\Solution\WPF\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Phil Weber\Dropbox\C#\Day 1\Labs\Lab02\Solution\WPF\obj\x86\Debug\App.g.cs
+C:\Users\Phil Weber\Dropbox\C#\Day 1\Labs\Lab02\Solution\WPF\obj\x86\Debug\BankAccount_MarkupCompile.cache
+C:\Users\Phil Weber\Dropbox\C#\Day 1\Labs\Lab02\Solution\WPF\obj\x86\Debug\BankAccount.g.resources
+C:\Users\Phil Weber\Dropbox\C#\Day 1\Labs\Lab02\Solution\WPF\obj\x86\Debug\Lab02.Properties.Resources.resources
+C:\Users\Phil Weber\Dropbox\C#\Day 1\Labs\Lab02\Solution\WPF\obj\x86\Debug\BankAccount.csproj.GenerateResource.Cache
+C:\Users\Phil Weber\Dropbox\C#\Day 1\Labs\Lab02\Solution\WPF\bin\Debug\BankAccount.exe
+C:\Users\Phil Weber\Dropbox\C#\Day 1\Labs\Lab02\Solution\WPF\bin\Debug\BankAccount.pdb

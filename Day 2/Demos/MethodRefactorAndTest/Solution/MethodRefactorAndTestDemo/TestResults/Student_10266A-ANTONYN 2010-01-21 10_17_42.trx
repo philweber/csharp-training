@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="6a0ec1e3-ea51-4c16-9146-dc3cc43d4844" name="Student@10266A-ANTONYN 2010-01-21 10:17:42" runUser="10266A-ANTONYN\Student" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="c9c51990-3d7d-43a5-a648-e5bf04121a93">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment enabled="false" runDeploymentRoot="Student_10266A-ANTONYN 2010-01-21 10_17_42">
+      <DeploymentItem filename="E:\Demofiles\Mod3\Demo1\Starter\MethodRefactorAndTestDemo\MethodRefactorAndTestDemo\bin\Debug\MethodRefactorAndTestDemo.exe" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2010-01-21T10:17:42.1174453-08:00" queuing="2010-01-21T10:17:42.1281875-08:00" start="2010-01-21T10:17:42.3889296-08:00" finish="2010-01-21T10:17:43.0110000-08:00" />
+  <ResultSummary outcome="Failed">
+    <Counters total="1" executed="1" error="0" failed="1" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" passed="0" completed="0" inProgress="0" pending="0" />
+    <RunInfos>
+      <RunInfo computerName="10266A-ANTONYN" outcome="Warning" timestamp="2010-01-21T10:17:42.1272109-08:00">
+        <Text>Deployment is currently disabled. The deployment item 'MethodRefactorAndTestDemo.exe' on test 'TestProject1.ProgramTest.GenerateRandomNumbersTest' was not deployed.</Text>
+      </RunInfo>
+    </RunInfos>
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="GenerateRandomNumbersTest" storage="e:\demofiles\mod3\demo1\starter\methodrefactorandtestdemo\testproject1\bin\debug\testproject1.dll" id="2dd958a2-ab59-fc4f-5d37-e006b195e851">
+      <DeploymentItems>
+        <DeploymentItem filename="MethodRefactorAndTestDemo.exe" />
+      </DeploymentItems>
+      <Execution id="00cc4146-c40d-44ef-9b61-96e5656d4297" />
+      <TestMethod codeBase="E:/Demofiles/Mod3/Demo1/Starter/MethodRefactorAndTestDemo/TestProject1/bin/Debug/TestProject1.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestProject1.ProgramTest, TestProject1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="GenerateRandomNumbersTest" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="2dd958a2-ab59-fc4f-5d37-e006b195e851" executionId="00cc4146-c40d-44ef-9b61-96e5656d4297" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="00cc4146-c40d-44ef-9b61-96e5656d4297" testId="2dd958a2-ab59-fc4f-5d37-e006b195e851" testName="GenerateRandomNumbersTest" computerName="10266A-ANTONYN" duration="00:00:00.0268643" startTime="2010-01-21T10:17:42.4377578-08:00" endTime="2010-01-21T10:17:42.8947890-08:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="00cc4146-c40d-44ef-9b61-96e5656d4297">
+      <Output>
+        <ErrorInfo>
+          <Message>Assert.AreEqual failed. Expected:&lt;999&gt;. Actual:&lt;1000&gt;. </Message>
+          <StackTrace>   at TestProject1.ProgramTest.GenerateRandomNumbersTest() in E:\Demofiles\Mod3\Demo1\Starter\MethodRefactorAndTestDemo\TestProject1\ProgramTest.cs:line 79
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+  </Results>
+</TestRun>

@@ -1,0 +1,9 @@
+E:\Demofiles\Mod3\Demo1\Starter\MethodRefactorAndTestDemo\TestProject1\bin\Debug\TestProject1.dll
+E:\Demofiles\Mod3\Demo1\Starter\MethodRefactorAndTestDemo\TestProject1\bin\Debug\TestProject1.pdb
+E:\Demofiles\Mod3\Demo1\Starter\MethodRefactorAndTestDemo\TestProject1\bin\Debug\MethodRefactorAndTestDemo.exe
+E:\Demofiles\Mod3\Demo1\Starter\MethodRefactorAndTestDemo\TestProject1\bin\Debug\MethodRefactorAndTestDemo.pdb
+E:\Demofiles\Mod3\Demo1\Starter\MethodRefactorAndTestDemo\TestProject1\bin\Debug\MethodRefactorAndTestDemo_Accessor.dll
+E:\Demofiles\Mod3\Demo1\Starter\MethodRefactorAndTestDemo\TestProject1\bin\Debug\MethodRefactorAndTestDemo_Accessor.pdb
+E:\Demofiles\Mod3\Demo1\Starter\MethodRefactorAndTestDemo\TestProject1\obj\Debug\ResolveAssemblyReference.cache
+E:\Demofiles\Mod3\Demo1\Starter\MethodRefactorAndTestDemo\TestProject1\obj\Debug\TestProject1.dll
+E:\Demofiles\Mod3\Demo1\Starter\MethodRefactorAndTestDemo\TestProject1\obj\Debug\TestProject1.pdb
